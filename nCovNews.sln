@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1022
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "nCovNews", "nCovNews\nCovNews.pyproj", "{6103B431-AFC2-4601-B105-ED544138AFF5}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FlaskWebProject1", "FlaskWebProject1\FlaskWebProject1.pyproj", "{1FDB4D54-D82A-458E-BC47-81FF68C1F1E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{6103B431-AFC2-4601-B105-ED544138AFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6103B431-AFC2-4601-B105-ED544138AFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6103B431-AFC2-4601-B105-ED544138AFF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FDB4D54-D82A-458E-BC47-81FF68C1F1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FDB4D54-D82A-458E-BC47-81FF68C1F1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FDB4D54-D82A-458E-BC47-81FF68C1F1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FDB4D54-D82A-458E-BC47-81FF68C1F1E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
