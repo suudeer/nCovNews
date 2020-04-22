@@ -37,10 +37,14 @@
     <Folder Include="nCovNews\static\" />
     <Folder Include="nCovNews\static\content\" />
     <Folder Include="nCovNews\static\fonts\" />
+    <Folder Include="nCovNews\static\images\" />
     <Folder Include="nCovNews\static\scripts\" />
     <Folder Include="nCovNews\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="nCovNews\templates\overview.html" />
+    <Content Include="nCovNews\templates\analyze.html" />
+    <Content Include="nCovNews\templates\discuss.html" />
     <Content Include="requirements.txt" />
     <Content Include="nCovNews\static\content\bootstrap.css" />
     <Content Include="nCovNews\static\content\bootstrap.min.css" />
